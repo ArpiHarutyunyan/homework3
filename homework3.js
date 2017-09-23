@@ -60,5 +60,3 @@ const action=function(a,b,c){
 				return c;
 			}
 	};
-	const result=(string1("as","sad","sdsa"));
-		console.log(result)
